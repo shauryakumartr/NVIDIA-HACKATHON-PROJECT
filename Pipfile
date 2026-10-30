@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+streamlit = ">=1.38.0"
+pandas = ">=2.2.0"
+requests = ">=2.32.0"
+python-dotenv = ">=1.0.1"
+openai = ">=1.45.0"
+razorpay = ">=1.4.2"
+fpdf2 = ">=2.7.9"
+pillow = ">=10.4.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.13"

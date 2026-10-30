@@ -1,0 +1,90 @@
+[
+  {
+    "listing_id": "FPO-101",
+    "fpo_name": "Sahyadri Farmers Producer Co. Ltd.",
+    "commodity": "Tomato",
+    "variety": "Hybrid Shivam / Abhinav",
+    "grade": "Grade A",
+    "harvest_date": "2026-10-30",
+    "quantity_quintals": 180.0,
+    "asking_price_per_quintal": 2350.0,
+    "origin_location": "Nashik, Maharashtra",
+    "origin_distance_km_map": {
+      "Azadpur (Delhi)": 1280,
+      "Vashi (Mumbai)": 165,
+      "Lasalgaon": 42,
+      "Jaipur": 1050,
+      "Kolar": 980
+    },
+    "photo_url": "https://images.unsplash.com/photo-1592924357228-91a4daadcfea?auto=format&fit=crop&w=600&q=80",
+    "completed_orders": 312,
+    "on_time_rate": 0.98,
+    "quality_rating": 4.9
+  },
+  {
+    "listing_id": "FPO-102",
+    "fpo_name": "Lasalgaon Kisan Samriddhi Agro FPO",
+    "commodity": "Onion",
+    "variety": "Red Garwa Superior",
+    "grade": "Grade A",
+    "harvest_date": "2026-10-29",
+    "quantity_quintals": 350.0,
+    "asking_price_per_quintal": 2550.0,
+    "origin_location": "Lasalgaon, Maharashtra",
+    "origin_distance_km_map": {
+      "Azadpur (Delhi)": 1220,
+      "Vashi (Mumbai)": 215,
+      "Lasalgaon": 5,
+      "Jaipur": 1010,
+      "Kolar": 1020
+    },
+    "photo_url": "https://images.unsplash.com/photo-1618512496248-a07fe83aa8cb?auto=format&fit=crop&w=600&q=80",
+    "completed_orders": 240,
+    "on_time_rate": 0.96,
+    "quality_rating": 4.8
+  },
+  {
+    "listing_id": "FPO-103",
+    "fpo_name": "Malwa Agritech Farmers Producer Society",
+    "commodity": "Potato",
+    "variety": "Kufri Jyoti Table Potato",
+    "grade": "Grade B",
+    "harvest_date": "2026-10-27",
+    "quantity_quintals": 520.0,
+    "asking_price_per_quintal": 1420.0,
+    "origin_location": "Indore, Madhya Pradesh",
+    "origin_distance_km_map": {
+      "Azadpur (Delhi)": 810,
+      "Vashi (Mumbai)": 590,
+      "Lasalgaon": 420,
+      "Jaipur": 570,
+      "Kolar": 1250
+    },
+    "photo_url": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?auto=format&fit=crop&w=600&q=80",
+    "completed_orders": 145,
+    "on_time_rate": 0.92,
+    "quality_rating": 4.5
+  },
+  {
+    "listing_id": "FPO-104",
+    "fpo_name": "Kolar Krishi Kalyan Producer Co.",
+    "commodity": "Wheat",
+    "variety": "Sharbati Grain Gold",
+    "grade": "Grade A",
+    "harvest_date": "2026-10-24",
+    "quantity_quintals": 260.0,
+    "asking_price_per_quintal": 2820.0,
+    "origin_location": "Kolar, Karnataka",
+    "origin_distance_km_map": {
+      "Azadpur (Delhi)": 2080,
+      "Vashi (Mumbai)": 990,
+      "Lasalgaon": 970,
+      "Jaipur": 1950,
+      "Kolar": 0
+    },
+    "photo_url": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?auto=format&fit=crop&w=600&q=80",
+    "completed_orders": 88,
+    "on_time_rate": 0.89,
+    "quality_rating": 4.4
+  }
+]
